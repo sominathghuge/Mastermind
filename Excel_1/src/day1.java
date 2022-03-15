@@ -20,7 +20,7 @@ public class day1 {
 		System.out.println(data);
 
 	
-		
+		System.out.println("hello");
 		
 		
 		
